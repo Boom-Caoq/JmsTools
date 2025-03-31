@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jmsTools", "jmsTools.csproj", "{5E59CCF9-6623-4069-A1B0-FBD0521EF2D2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "JmsToolSetup", "..\JmsToolSetup\JmsToolSetup.vdproj", "{A1E3D09A-60AB-4B48-AB97-2F56635A96FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E59CCF9-6623-4069-A1B0-FBD0521EF2D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E59CCF9-6623-4069-A1B0-FBD0521EF2D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E59CCF9-6623-4069-A1B0-FBD0521EF2D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E59CCF9-6623-4069-A1B0-FBD0521EF2D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1E3D09A-60AB-4B48-AB97-2F56635A96FC}.Debug|Any CPU.ActiveCfg = Release
+		{A1E3D09A-60AB-4B48-AB97-2F56635A96FC}.Debug|Any CPU.Build.0 = Release
+		{A1E3D09A-60AB-4B48-AB97-2F56635A96FC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26833D85-959F-4C87-B964-DB273587117F}
+	EndGlobalSection
+EndGlobal

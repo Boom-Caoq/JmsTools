@@ -54,7 +54,9 @@
 目前正在开发网页版
 
 
-![1751006323745](https://github.com/user-attachments/assets/6e44774f-fcda-4de0-a471-1459c096a0d0)
+![1751006490902](https://github.com/user-attachments/assets/77eeebe5-b2b5-4536-98e6-0d6e71eb6826)
+
+
 
 
 --------------------合约预测新工具End----------------

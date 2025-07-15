@@ -17,7 +17,7 @@
 
 --------------------合约预测新工具已上线-----------
 
-新版的，在原有的基础上做了改动（胜率提升）  需要新版工具加V：Goodbye_cq
+新版的，在原有的基础上做了改动（胜率提升）  需要新版工具加V：Goodbye_cq   149人民币-永久免费，赠送网页版
 
 ![1751006323745](https://github.com/user-attachments/assets/46bbe927-b74e-4b07-8ecb-e4b79fe7799c)
 
@@ -55,15 +55,29 @@
 ![3625fab2dc7a74caca9e6fae53acb35](https://github.com/user-attachments/assets/07295819-547a-4427-8caa-644a760a1e2a)
 
 
-目前正在开发网页版
 
 
-![1751006490902](https://github.com/user-attachments/assets/77eeebe5-b2b5-4536-98e6-0d6e71eb6826)
+--------------------合约预测新工具-------------------
+
+网页版已开发上线  149人民币-永久免费
+
+<img width="1036" height="2242" alt="27bc6eecc5996a8973ff87d18758f34" src="https://github.com/user-attachments/assets/2a8f8f3f-4e4f-4402-bd6d-ba5c783d6eb8" />
+
+用户反馈：
+![036dcc285450eefc1be9826124b6804](https://github.com/user-attachments/assets/d61a8d97-66bb-4c83-913d-7a7793921b65)
+
+![d00174313ac6cd6f16d55c915575201](https://github.com/user-attachments/assets/eb0c878b-0cb2-423e-b550-1aaca073ff3b)
 
 
 
 
 --------------------合约预测新工具End----------------
+
+
+
+
+
+
 
 
 安装完成后，按win键，搜加密社，会出现如下应用

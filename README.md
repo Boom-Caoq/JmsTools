@@ -10,7 +10,10 @@
 
 加密社官网地址：https://bqbot.cn
 
-网页版合约分析：https://bqbot.cn/jms.html
+网页版合约分析（目前最新版-支持手机端，pc端）：https://bqbot.cn/jms.html
+https://bqbot.cn/%e4%ba%8b%e4%bb%b6%e5%90%88%e7%ba%a6%e5%88%86%e6%9e%90%e6%b0%b8%e7%bb%ad%e5%90%88%e7%ba%a6%e5%88%86%e6%9e%90%e5%b7%a5%e5%85%b7%e7%94%a8%e6%88%b7%e6%b5%8b%e8%af%84%e5%8f%8d%e9%a6%88/
+可查看最新用户反馈
+
 
 客户端版事件合约分析：https://bqbot.cn/sites/%e5%90%88%e7%ba%a6%e5%88%86%e6%9e%90%e5%b7%a5%e5%85%b7.html
 

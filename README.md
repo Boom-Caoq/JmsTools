@@ -138,7 +138,9 @@ https://zhuanlan.zhihu.com/p/1889334750017220894
 
 
 
-如果有更好的指标权重分配逻辑，和其他的建议 欢迎和我讨论，微信：Goodbye_cq
+如果有更好的指标权重分配逻辑，和其他的建议 欢迎和我讨论，微信
+
+<img width="233" height="228" alt="qywx" src="https://github.com/user-attachments/assets/986acc22-1ac4-44de-b742-bff5caa1ee8c" />
 
 
 

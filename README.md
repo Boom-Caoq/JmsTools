@@ -36,6 +36,7 @@ https://bqbot.cn/%e4%ba%8b%e4%bb%b6%e5%90%88%e7%ba%a6%e5%88%86%e6%9e%90%e6%b0%b8
 
 新版的，在原有的基础上做了改动（胜率提升）   149人民币-永久免费，赠送网页版
 
+<img width="233" height="228" alt="qywx" src="https://github.com/user-attachments/assets/b5ae9bed-582f-4d24-a836-1afc2b7b8e8c" />
 
 
 

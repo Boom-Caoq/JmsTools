@@ -33,7 +33,9 @@ https://coinpred.com/feedback/
 
 新版的，在原有的基础上做了改动（胜率提升）   149人民币-永久免费，赠送网页版
 
-<img width="233" height="228" alt="qywx" src="https://github.com/user-attachments/assets/b5ae9bed-582f-4d24-a836-1afc2b7b8e8c" />
+TG联系方式
+<img width="1260" height="2419" alt="8c736469546f355b828106946e6178ca" src="https://github.com/user-attachments/assets/6845e6c4-04bc-42d2-98b9-e63dc9826583" />
+
 
 
 
